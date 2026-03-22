@@ -67,17 +67,3 @@ Added slicers for:
 - Reduced unnecessary clutter for better user experience
 
 ---
-
-## 📊 Key Insights
-- Certain medical conditions contribute significantly to total billing revenue
-- Insurance providers play an important role in patient coverage distribution
-- Patient admissions show trends across years and admission types
-- Hospital stay duration provides insight into treatment efficiency
-
----
-
-## 📌 Recommendations
-- Focus on high revenue medical conditions to manage treatment costs effectively
-- Strengthen collaboration with major insurance providers
-- Improve hospital stay efficiency to reduce operational costs
-- Use data insights to support better healthcare planning and decision-making
