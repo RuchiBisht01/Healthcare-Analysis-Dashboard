@@ -35,7 +35,7 @@ This project analyzes healthcare data to uncover key insights into patient trend
 - Created new columns such as hospital stay duration and admission year
 - Grouped data for analysis of billing totals, patient counts, and admission trends
 
-### 4. Data Modeling (DAX Measures)
+### 4. Data Modeling 
 Created key calculations:
 - Total Patients
 - Total Billing Amount
